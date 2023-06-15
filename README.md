@@ -1,5 +1,5 @@
 - Hi, I’m @kushagraghosh
-- I’m interested in data structures and algorithms, object oriented programming, and Machine Learning & Artificial Intelligence.
+- I’m interested in Database Systems, Data Science, and Computer Vision.
 - Projects: [HousingInequalityFluidVisualization](https://github.com/kushagraghosh/HousingInequalityFluidVisualization), [KMeansOnClaims](https://github.com/kushagraghosh/KMeansOnClaims), [SimpleBreakoutGame](https://github.com/kushagraghosh/SimpleBreakoutGame), [ConspiracyTheoryNLP](https://www.logan-cooper.com/conspiracy-network/)
 - I’m currently learning Computer Science at Duke University.
 - I’m looking for technology internships and opportunities. 
